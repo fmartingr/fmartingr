@@ -7,4 +7,4 @@ My name is Felipe Martin, and I'm a Software Engineer working remotely at [**@ma
   - I also happen to have my own git server for small repos, proof of concepts, courses and other stuff [here](https://code.fmartingr.dev) if you're curious.
 - I'm interested in learning **Golang**, **Rust** or any other technology I've worked with in the past.
 
-[Contact me](https://fmartingr.com/about)
+📧 [Contact me](https://fmartingr.com/about) or ☕ [buy me a coffee](https://ko-fi.com/fmartingr)!
